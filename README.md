@@ -10,7 +10,7 @@ It consists of two parts :
 * Electron (to start the app)
 * Java (to generate apk backdoor)
 * Electron-builder and electron-packer (to build binaries for (OSX,WINDOWS,LINUX))
-1. ```git clone https://github.com/AhMyth/AhMyth-Android-RAT.git```
+1. ```git clone https://github.com/kunalmannu/AhMyth-Android-RAT.git```
 2. ```cd AhMyth-Android-RAT/AhMyth-Server```
 3. ```npm install```
 4. ```npm audit```
