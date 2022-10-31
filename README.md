@@ -20,17 +20,17 @@ It consists of two parts :
 
 ## Screenshots
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kunalmannu/AhMyth/main/ScreenShots/splash.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/kunalmannu/AhMyth-Android-RAT/main/ScreenShots/splash.png" width="600"/>
 </p>
 
 ---------------------------------------------------------------
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kunalmannu/AhMyth/main/ScreenShots/img1.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/kunalmannu/AhMyth-Android-RAT/main/ScreenShots/img1.png" width="600"/>
 </p>
 
 ---------------------------------------------------------------
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kunalmannu/AhMyth/main/ScreenShots/img2.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/kunalmannu/AhMyth-Android-RAT/main/ScreenShots/img2.png" width="600"/>
 </p>
